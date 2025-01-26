@@ -3,7 +3,6 @@ import LoadingIndicator from "../components/LoadingIndicator";
 import ContentBox from "../components/contents/ContentBox";
 import PageWrapper from "../components/PageWrapper";
 import SortByTag from "../components/SortByTag";
-import configs from "../configs.json";
 
 const OrderedProductPreview = React.lazy(
   () => import("../components/products/OrderedProductPreview")

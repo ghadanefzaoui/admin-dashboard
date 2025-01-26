@@ -5,11 +5,8 @@ import DisplaySection from "../components/DisplaySection";
 import PageWrapper from "../components/PageWrapper";
 import SortByTag from "../components/SortByTag";
 import Search from "../components/Search";
-import Customer from '../assets/images/customer.svg'
-import LeadershipIcon from "../assets/images/leadership.svg";
 import ShoppingCartIcon from "../assets/images/contract.svg";
 import TotalSalesIcon from "../assets/images/sales.svg";
-import StoreIcon from "../assets/images/store.svg";
 import configs from "../configs.json";
 
 const OrderedProductPreview = React.lazy(
