@@ -1,0 +1,61 @@
+{
+    "data": [
+      {
+        "productId": 1,
+        "name": "BMW M4",
+        "price": 120,
+        "units": 1,
+        "inStock": true,
+        "image": "https://i.pinimg.com/originals/24/bb/e6/24bbe63026ae59fe39ae8a61d9fe5798.png"
+      },
+      {
+        "productId": 2,
+        "name": "Tesla Model S",
+        "price": 130,
+        "units": 1,
+        "inStock": true,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPvldPmZ60jqM0q3QRVll51b0d6xEi3SedGw&s"
+      },
+      {
+        "productId": 3,
+        "name": "Mercedes-Benz S-Class",
+        "price": 150,
+        "units": 1,
+        "inStock": true,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTltt7reqUsbz0OesaUQ7_Qd6tOuGzYz30YUg&s"
+      },
+      {
+        "productId": 4,
+        "name": "Lamborghini Huracán",
+        "price": 200,
+        "units": 1,
+        "inStock": true,
+        "image": "https://www.pngarts.com/files/3/Lamborghini-Huracan-Free-PNG-Image.png"
+      },
+      {
+        "productId": 5,
+        "name": "Toyota Prius",
+        "price": 30,
+        "units": 1,
+        "inStock": true,
+        "image": "https://images.dealer.com/ddc/vehicles/2020/Toyota/Prius%20Prime/Hatchback/perspective/front-left/0020_24.png"
+      },
+      {
+        "productId": 6,
+        "name": "Audi A7",
+        "price": 90,
+        "units": 1,
+        "inStock": true,
+        "image": "https://mediaservice.audi.com/media/cdb/data/aec9d555-b7a7-4519-8c01-2ca97266bfb6.jpg"
+      },
+      {
+        "productId": 7,
+        "name": "MG6",
+        "price": 40,
+        "units": 1,
+        "inStock": true,
+        "image": "https://mgmyanmar.com.mm/wp-content/uploads/2024/03/black-3-1.png"
+      }
+    ]
+  }
+  
